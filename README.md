@@ -11,5 +11,3 @@
 
 Sebagai file format standar yang digunakan untuk pertukaran data, berisi key dan value.
 
-## Demonstrasi Aplikasi
-  # arkademy-B11K05
