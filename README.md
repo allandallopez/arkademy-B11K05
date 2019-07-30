@@ -5,7 +5,7 @@
 
 ### Pengertian REST API
 
-** Gaya arsitektural perangkat lunak ** yang didalamnya mendefinisikan aturan-aturan untuk membuat web service.
+**Gaya arsitektural perangkat lunak** yang didalamnya mendefinisikan aturan-aturan untuk membuat web service.
 
 ### Kegunaan JSON pada REST  API
 
